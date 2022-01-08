@@ -125,7 +125,7 @@ They're different tools with different strengths. Like a tank and a cannon, they
   in `SOLID (object-oriented design)` , so don't break this concept by
    mixing the responsibilities .
 
-  ![mvvm2](https://user-images.githubusercontent.com/1812129/68319008-e9d39d00-00bd-11ea-9245-ebedd2a2c067.png)
+  ![mvvm22](https://user-images.githubusercontent.com/1812129/68319008-e9d39d00-00bd-11ea-9245-ebedd2a2c067.png)
 
 ## LICENSE
 Copyright [2016] [Ahmed Eltaher]
